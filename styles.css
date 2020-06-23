@@ -1,0 +1,12 @@
+h1{background-color: white;}
+body{ font-style: initial;}
+p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+body{background-color:powderblue; }
+.table{border-color: khaki;
+       border-top-left-radius: 30px;
+       border-width: 60;
+}
